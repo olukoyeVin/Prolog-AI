@@ -1,10 +1,5 @@
-/*CCS/00022/020  
-  CCS/00055/020  
-  CCS/00054/020  
-  CCS/00025/020  
+/*CCS/00022/020   
 */
-
-
 
 is_a_sister(ann,carol).
 is_a_sister(carol,ann).

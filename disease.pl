@@ -1,5 +1,3 @@
-/*Vivian Mwendwa- ccs/00053/020*/
-/*Maryanne Odoyo- ccs/00052/020*/
 /*Vincent Olukoye- ccs/00022/020*/
 go :- hypothesize(Disease),
       write('I guess that the disease is: '),
